@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1803f0df-3c0d-4d02-86af-732d4849d22f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clckf2wspOi1H87xhlQrznqfb6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PostoCombustivelTest">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="CorrecaoPostoCombustivel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostoCombustivelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CorrecaoPostoCombustivel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PostoCombustivelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PostoCombustivelTest" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1803f0df-3c0d-4d02-86af-732d4849d22f" name="Default Changelist" comment="" />
+      <created>1591106764635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591106764635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1591107334939">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="342" y="102" key="#com.intellij.ide.util.MemberChooser/0.23.1280.720@0.23.1280.720" timestamp="1591107334939" />
+    <state width="1123" height="91" key="GridCell.Tab.0.bottom" timestamp="1591108521576">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="91" key="GridCell.Tab.0.bottom/0.23.1280.720@0.23.1280.720" timestamp="1591108521576" />
+    <state width="1123" height="91" key="GridCell.Tab.0.center" timestamp="1591108521574">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="91" key="GridCell.Tab.0.center/0.23.1280.720@0.23.1280.720" timestamp="1591108521574" />
+    <state width="1123" height="91" key="GridCell.Tab.0.left" timestamp="1591108521573">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="91" key="GridCell.Tab.0.left/0.23.1280.720@0.23.1280.720" timestamp="1591108521573" />
+    <state width="1123" height="91" key="GridCell.Tab.0.right" timestamp="1591108521575">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="91" key="GridCell.Tab.0.right/0.23.1280.720@0.23.1280.720" timestamp="1591108521575" />
+    <state x="361" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591107285062">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="361" y="113" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.720@0.23.1280.720" timestamp="1591107285062" />
+  </component>
+</project>
